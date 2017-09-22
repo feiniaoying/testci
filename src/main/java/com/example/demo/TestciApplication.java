@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TestciApplication {
 
 	public static void main(String[] args) {
+		System.out.println("测试！");
 		SpringApplication.run(TestciApplication.class, args);
 	}
 }
