@@ -1,0 +1,6 @@
+projectKey=com.example:demo
+serverUrl=http://192.168.98.232:9000
+serverVersion=6.5.0.27846
+dashboardUrl=http://192.168.98.232:9000/dashboard/index/com.example:demo
+ceTaskId=AV6tmjDP75_FlvXIc0Id
+ceTaskUrl=http://192.168.98.232:9000/api/ce/task?id=AV6tmjDP75_FlvXIc0Id
